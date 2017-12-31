@@ -20,3 +20,15 @@
 **Link(s) to work**
 1. [Pinegrow Twitter Account](https://twitter.com/pinegrow)
 2. [Pinegrow Website](https://pinegrow.com/)
+
+---
+
+### Day 003: Saturday December 30th, 2017
+
+**Today's Progress**: Continued my work on the animal clinic using a combo of Pinegrow and hand-coding.
+
+**Thoughts:** Still continuing to learn the ins-and-outs of Pinegrow. Working with it more often will increase my knowledge of the platform.
+
+**Link(s) to work**
+1. [Pinegrow Twitter Account](https://twitter.com/pinegrow)
+2. [Pinegrow Website](https://pinegrow.com/)
