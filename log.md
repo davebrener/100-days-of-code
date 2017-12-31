@@ -32,3 +32,17 @@
 **Link(s) to work**
 1. [Pinegrow Twitter Account](https://twitter.com/pinegrow)
 2. [Pinegrow Website](https://pinegrow.com/)
+
+---
+
+### Day 004: Sunday December 31st, 2017
+
+**Today's Progress**: Began working through Per Harald Borgen's course on CSS Grid layout.
+
+**Thoughts:** I'll need much more practice before I'm comfortable enough to utilize CSS Grid on a project. In particular, still trying to wrap my head around placement of divs within the defined grid columns. Seems tricky to me, at least right now.
+
+**Link(s) to work**
+1. [Learn CSS Grid in 5 minutes](https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228)
+2. [Per's CSS Grid course on Scrimba](https://scrimba.com/g/gR8PTE)
+3. [Per's Twitter](https://twitter.com/perborgen)
+4. [Magnus Holm GitHub](https://github.com/judofyr)
