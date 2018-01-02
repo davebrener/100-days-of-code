@@ -46,3 +46,15 @@
 2. [Per's CSS Grid course on Scrimba](https://scrimba.com/g/gR8PTE)
 3. [Per's Twitter](https://twitter.com/perborgen)
 4. [Magnus Holm GitHub](https://github.com/judofyr)
+
+---
+
+### Day 005: Monday January 1st, 2018
+
+**Today's Progress**: Started Dave McFarland's video series on Javascript.
+
+**Thoughts:** Working on variables and numbers using JS. Liking it so far.
+
+**Link(s) to work**
+1. [Dave McFarland's Twitter](https://twitter.com/davemcfarland)
+2.  [Treehouse Twitter](https://twitter.com/treehouse)
