@@ -58,3 +58,14 @@
 **Link(s) to work**
 1. [Dave McFarland's Twitter](https://twitter.com/davemcfarland)
 2.  [Treehouse Twitter](https://twitter.com/treehouse)
+
+---
+
+### Day 006: Tuesday January 2nd, 2018
+
+**Today's Progress**: Working through FreeCodeCamp's lessons from the beginning!
+
+**Thoughts:** I reset my account and am starting from scratch. Good refresher!
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org)
