@@ -69,3 +69,14 @@
 
 **Link(s) to work**
 1. [FreeCodeCamp](https://www.freecodecamp.org)
+
+---
+
+### Day 007: Wednesday January 3rd, 2018
+
+**Today's Progress**: Continued working through FreeCodeCamp's lessons from the beginning!
+
+**Thoughts:** Getting into the JS portion of the course. Didn't take long to get here.
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org)
