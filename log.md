@@ -80,3 +80,15 @@
 
 **Link(s) to work**
 1. [FreeCodeCamp](https://www.freecodecamp.org)
+
+---
+
+### Day 008: Thursday January 4th, 2018
+
+**Today's Progress**: Built a Tribute Page on Codepen for FreeCodeCamp's Front-End coursework.
+
+**Thoughts:** Didn't take too long to build out. Very simple layout.
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org)
+2. [Tribute Page on Codepen](https://codepen.io/davebrener-1478702082/full/opepzJ/)
