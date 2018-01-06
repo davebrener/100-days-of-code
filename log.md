@@ -92,3 +92,15 @@
 **Link(s) to work**
 1. [FreeCodeCamp](https://www.freecodecamp.org)
 2. [Tribute Page on Codepen](https://codepen.io/davebrener-1478702082/full/opepzJ/)
+
+---
+
+### Day(s) 009 & 010: Friday January 5th & Saturday January 6th, 2018
+
+**Today's Progress**: Tackling FreeCodeCamps's JavaScript section and catching up on some Dev videos via YouTube
+
+**Thoughts:** Missed my hour of coding yesterday, so making up for it today!
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org)
+2. [Coding Tutorials 360 on Youtube](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
