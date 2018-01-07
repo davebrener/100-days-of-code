@@ -104,3 +104,14 @@
 **Link(s) to work**
 1. [FreeCodeCamp](https://www.freecodecamp.org)
 2. [Coding Tutorials 360 on Youtube](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
+
+---
+
+### Day 011: Sunday January 7th, 2018
+
+**Today's Progress**: Continuing FreeCodeCamps's JavaScript section.
+
+**Thoughts:** Finding my progress to be slowing due to learning concepts I don't quite grasp yet.
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org)
