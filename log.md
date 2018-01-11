@@ -115,3 +115,36 @@
 
 **Link(s) to work**
 1. [FreeCodeCamp](https://www.freecodecamp.org)
+
+---
+
+### Day 012: Monday January 8th, 2018
+
+**Today's Progress**: Re-read some of Jon Duckett's JavaScript and jQuery book and that was it.
+
+**Thoughts:** Frankly today sucked. Couldn't get my brain on track to learn.
+
+**Link(s) to work**
+1. [JavaScript &amp; jQuery by Jon Duckett](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_1?ie=UTF8&qid=1515680405&sr=8-1&keywords=javascript+and+jquery)
+
+---
+
+### Day 013: Tuesday January 9th, 2018
+
+**Today's Progress**: Worked on importing content from a JSON file.
+
+**Thoughts:** It didn't go well.
+
+**Link(s) to work**
+1. [JSON](https://www.json.org/)
+
+---
+
+### Day 014: Wednesday January 10th, 2018
+
+**Today's Progress**: checked out the #CssGrid course from [@wesbos](https://twitter.com/wesbos).
+
+**Thoughts:** Awesome. Can't wait to dive into it more over the weekend.
+
+**Link(s) to work**
+1. [Wes Bos](http://wesbos.com/)
