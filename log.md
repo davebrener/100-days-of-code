@@ -148,3 +148,25 @@
 
 **Link(s) to work**
 1. [Wes Bos](http://wesbos.com/)
+
+---
+
+### Day 015: Thursday January 11th, 2018
+
+**Today's Progress**: Started the [@udacity](https://twitter.com/udacity) Google Scholarship program for Front-End Dev.
+
+**Thoughts:** So far, so good.
+
+**Link(s) to work**
+1. [Udacity](https://www.udacity.com/)
+
+---
+
+### Day 016: Saturday January 13th, 2018
+
+**Today's Progress**: Continued [Dave McFarland's](https://twitter.com/davemcfarland) JS course on Treehouse.
+
+**Thoughts:** Boolean all the things.
+
+**Link(s) to work**
+1. [Treehouse](https://teamtreehouse.com)
