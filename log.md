@@ -170,3 +170,14 @@
 
 **Link(s) to work**
 1. [Treehouse](https://teamtreehouse.com)
+
+---
+
+### Day 017: Sunday January 14th, 2018
+
+**Today's Progress**: Continued [Dave McFarland's](https://twitter.com/davemcfarland) JS course on Treehouse.
+
+**Thoughts:** Conditionals.
+
+**Link(s) to work**
+1. [Treehouse](https://teamtreehouse.com)
